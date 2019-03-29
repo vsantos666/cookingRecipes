@@ -1,3 +1,7 @@
+The project was carried out with spring, hibernate, jpa, java and postgresSQL.
+It has a controller connected to some services as an interface, each of these services,
+has its own implementation where the business logic of the method is, this layer is the only one that can connect to the repository which has access to the database.
+
 # cookingRecipe
 cookingRecipe
 
